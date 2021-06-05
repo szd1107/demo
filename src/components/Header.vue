@@ -55,7 +55,7 @@ export default {
     handleSelect(key, keyPath) {
       console.log(key, keyPath,this);
     }, button2(value){
-      console.log(value.url);
+      console.log(value);
     }
   }
 }
